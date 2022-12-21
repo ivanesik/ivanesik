@@ -1,6 +1,7 @@
 # Hi there 🦊
 
 I'm Ivan Elyoskin, a 🧑🏻‍💻 Frontend Developer.
+Bad in ui design but good in code.
 
 <!--
 **ivanesik/ivanesik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
