@@ -1,6 +1,6 @@
 # Hi there 🦊
 
-I'm Ivan Elyoskin, a 🧑🏻‍💻 Frontend Developer, ex. iOS Dev.
+I'm Ivan Elyoskin, a 🧑🏻‍💻 Frontend Developer, ex. iOS and FullStack Dev.
 
 <!--
 **ivanesik/ivanesik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
